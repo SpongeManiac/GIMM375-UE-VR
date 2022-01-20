@@ -814,3 +814,71 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.01.20-23.06.43:673][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
 [2022.01.20-23.06.48:126][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 634
 [2022.01.20-23.06.48:126][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.06.50:354][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 624
+[2022.01.20-23.06.50:354][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.06.52:579][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 614
+[2022.01.20-23.06.52:579][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.06.53:694][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 604
+[2022.01.20-23.06.53:694][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.06.54:250][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 594
+[2022.01.20-23.06.54:250][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.00:930][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 584
+[2022.01.20-23.07.00:930][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.03:157][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 574
+[2022.01.20-23.07.03:157][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.05:945][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 564
+[2022.01.20-23.07.05:945][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.14:337][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 554
+[2022.01.20-23.07.14:337][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.14:894][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 544
+[2022.01.20-23.07.14:894][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.15:451][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 534
+[2022.01.20-23.07.15:451][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.22:152][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 524
+[2022.01.20-23.07.22:152][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.23:821][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 514
+[2022.01.20-23.07.23:821][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.28:269][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 504
+[2022.01.20-23.07.28:269][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.31:046][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 494
+[2022.01.20-23.07.31:046][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.34:936][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 484
+[2022.01.20-23.07.34:936][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.38:276][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 474
+[2022.01.20-23.07.38:276][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.41:616][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 464
+[2022.01.20-23.07.41:616][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.42:173][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 454
+[2022.01.20-23.07.42:173][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.49:955][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 444
+[2022.01.20-23.07.49:955][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.51:067][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 434
+[2022.01.20-23.07.51:067][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.51:067][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 424
+[2022.01.20-23.07.51:067][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.53:852][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 414
+[2022.01.20-23.07.53:852][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.07.57:189][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 404
+[2022.01.20-23.07.57:189][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.08.02:757][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 394
+[2022.01.20-23.08.02:757][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.08.03:870][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 384
+[2022.01.20-23.08.03:870][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.08.04:423][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 374
+[2022.01.20-23.08.04:423][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.08.11:653][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 364
+[2022.01.20-23.08.11:653][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.08.15:545][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 354
+[2022.01.20-23.08.15:545][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.08.16:660][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 344
+[2022.01.20-23.08.16:660][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.08.24:449][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 334
+[2022.01.20-23.08.24:449][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.08.26:119][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 324
+[2022.01.20-23.08.26:119][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.08.28:346][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 314
+[2022.01.20-23.08.28:346][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.08.31:131][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 304
+[2022.01.20-23.08.31:131][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
+[2022.01.20-23.08.33:358][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 294
+[2022.01.20-23.08.33:358][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'High' priority
