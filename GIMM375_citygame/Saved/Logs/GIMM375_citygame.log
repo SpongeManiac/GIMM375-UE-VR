@@ -1117,3 +1117,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.16-20.37.05:628][228]LogAudioMixer: Display: 0: FrontLeft
 [2022.02.16-20.37.05:628][228]LogAudioMixer: Display: 1: FrontRight
 [2022.02.17-01.25.46:730][341]LogSlate: Took 0.006311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.17-01.27.09:768][888]LogSlate: Window 'LoseScreen' being destroyed
+[2022.02.17-01.27.09:777][888]LogSlate: Window 'LoseScreen' being destroyed
+[2022.02.17-01.27.09:851][888]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.02.17-01.27.09:851][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.17-01.27.10:169][888]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.02.17-01.27.10:169][888]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
