@@ -2090,3 +2090,9 @@ Make sure 'VRPawn_C' has been compiled for  Add Battery
 [2022.03.04-01.19.25:900][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.03.04-01.19.25:936][475]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
 [2022.03.04-01.19.25:953][476]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.03.04-01.22.43:305][381]BlueprintLog: New page: Compile BatteryPickupBP
+[2022.03.04-01.22.43:371][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2022.03.04-01.22.43:767][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BatteryPickupBP" FILE="../../../../../../GitHub/GIMM375-UE-VR/GIMM375_citygame/Content/Blueprints/BatteryPickupBP.uasset" SILENT=true
+[2022.03.04-01.22.43:779][419]LogSavePackage: Moving '../../../../../../GitHub/GIMM375-UE-VR/GIMM375_citygame/Saved/BatteryPickupBPFD8FE2CB441F1FB1D6E906BFE43C4142.tmp' to '../../../../../../GitHub/GIMM375-UE-VR/GIMM375_citygame/Content/Blueprints/BatteryPickupBP.uasset'
+[2022.03.04-01.22.43:793][419]AssetCheck: New page: Asset Save: BatteryPickupBP
+[2022.03.04-01.22.43:793][419]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BatteryPickupBP.BatteryPickupBP
