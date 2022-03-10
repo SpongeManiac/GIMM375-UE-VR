@@ -72,3 +72,4 @@ GIMM375_citygame/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 GIMM375_citygame/DerivedDataCache/*
+GIMM375_citygame/Saved/Logs/GIMM375_citygame.log
