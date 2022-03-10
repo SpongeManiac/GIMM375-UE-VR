@@ -2130,3 +2130,167 @@ Make sure 'ThirdPersonCharacter_DoNotUse_C' has been compiled for  Get Energy
 [2022.03.10-20.53.12:064][130]LogSavePackage: Moving 'D:/GIMM375-Power/GIMM375_citygame/Saved/CityTestA336A6984744ED447BF29DAFC5ECD66F.tmp' to 'D:/GIMM375-Power/GIMM375_citygame/Content/Levels/CityTest.umap'
 [2022.03.10-20.53.12:089][130]AssetCheck: New page: Asset Save: CityTest
 [2022.03.10-20.53.12:089][130]LogContentValidation: Display: Validating World /Game/Levels/CityTest.CityTest
+[2022.03.10-21.01.12:807][936]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.10-21.01.13:095][936]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.13:095][936]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.13:095][936]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.13:095][936]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.36:014][297]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.36:014][297]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.36:014][297]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.36:015][297]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.36:015][297]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.36:015][297]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.36:015][297]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.36:015][297]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.59:197][668]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.59:197][668]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.59:197][668]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.59:197][668]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.59:197][668]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.59:198][668]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.59:198][668]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.01.59:199][668]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.04:925][997]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.04:926][997]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.04:926][997]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.04:926][997]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.04:926][997]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.04:926][997]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.04:927][997]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.04:927][997]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.19:202][839]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.19:202][839]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.19:202][839]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.19:202][839]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.19:202][839]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.19:203][839]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.19:203][839]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.19:203][839]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.39:933][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.39:933][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.39:933][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.39:933][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.39:933][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.39:934][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.39:934][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.39:934][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.39:947][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.39:947][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.39:947][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.39:947][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.39:947][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.39:947][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.39:948][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.39:948][ 80]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.45:531][404]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.45:532][404]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.45:532][404]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.45:532][404]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.45:532][404]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.45:532][404]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.45:533][404]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.02.45:533][404]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.03.12:141][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.03.10-21.03.12:143][993]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/CityTest' took 0.026
+[2022.03.10-21.03.12:144][993]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([2] browsable assets)...
+[2022.03.10-21.03.12:144][993]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2022.03.10-21.03.12:175][993]LogSavePackage: Moving 'D:/GIMM375-Power/GIMM375_citygame/Saved/ThirdPersonCharacter_Auto11382D28749AA7C679EB07FA87BE859BE.tmp' to 'D:/GIMM375-Power/GIMM375_citygame/Saved/Autosaves/Game/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2022.03.10-21.03.12:175][993]LogFileHelpers: Auto-saving content packages took 0.032
+[2022.03.10-21.03.51:254][333]LogSavePackage: Moving 'D:/GIMM375-Power/GIMM375_citygame/Saved/ThirdPersonCharacterFF5E622740FDEA50B982DC9B876915D0.tmp' to 'D:/GIMM375-Power/GIMM375_citygame/Content/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.10-21.03.51:274][333]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.10-21.03.51:274][333]LogContentValidation: Display: Validating Blueprint /Game/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.10-21.03.54:250][510]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.03.54:250][510]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.03.54:250][510]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.03.54:251][510]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.03.54:251][510]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.03.54:251][510]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.03.54:251][510]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.03.54:251][510]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.04.00:107][861]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-21.04.00:107][861]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-21.04.02:348][991]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter_DoNotUse.ThirdPersonCharacter_DoNotUse
+[2022.03.10-21.04.02:653][991]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_DoNotUse_C_0)
+[2022.03.10-21.04.02:653][991]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_DoNotUse_C_0)
+[2022.03.10-21.04.02:653][991]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_DoNotUse_C_0)
+[2022.03.10-21.04.02:653][991]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_DoNotUse_C_0)
+[2022.03.10-21.04.15:123][688]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_DoNotUse_C_0)
+[2022.03.10-21.04.15:123][688]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_DoNotUse_C_0)
+[2022.03.10-21.04.15:123][688]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_DoNotUse_C_0)
+[2022.03.10-21.04.15:123][688]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_DoNotUse_C_0)
+[2022.03.10-21.04.15:123][688]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_DoNotUse_C_0)
+[2022.03.10-21.04.15:123][688]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_DoNotUse_C_0)
+[2022.03.10-21.04.15:123][688]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_DoNotUse_C_0)
+[2022.03.10-21.04.15:123][688]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_DoNotUse_C_0)
+[2022.03.10-21.04.43:217][109]LogSlate: Window 'ThirdPersonCharacter_DoNotUse' being destroyed
+[2022.03.10-21.06.22:794][167]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.03.10-21.06.22:799][167]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.03.10-21.06.43:518][393]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-21.06.43:518][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-21.06.45:332][496]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.10-21.06.45:609][496]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.06.45:609][496]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.06.45:609][496]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.06.45:609][496]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.06.47:972][633]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter_DoNotUse.ThirdPersonCharacter_DoNotUse
+[2022.03.10-21.06.48:245][633]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_DoNotUse_C_0)
+[2022.03.10-21.06.48:245][633]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_DoNotUse_C_0)
+[2022.03.10-21.06.48:245][633]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_DoNotUse_C_0)
+[2022.03.10-21.06.48:245][633]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_DoNotUse_C_0)
+[2022.03.10-21.06.56:201][100]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.06.56:201][100]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.06.56:201][100]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.06.56:201][100]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.06.56:201][100]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.06.56:202][100]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.06.56:202][100]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.06.56:202][100]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.33:662][239]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.33:662][239]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.33:662][239]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.33:662][239]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.33:662][239]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.33:662][239]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.33:663][239]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.33:663][239]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.33:677][239]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.33:678][239]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.33:678][239]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.33:678][239]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.33:678][239]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.33:678][239]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.33:678][239]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.33:679][239]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.41:075][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.41:075][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.41:075][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.41:075][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.41:075][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.41:076][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.41:076][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.41:076][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.41:090][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.41:091][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.41:091][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.41:091][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.41:091][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.41:091][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.41:092][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.41:092][679]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.07.42:794][775]LogSavePackage: Moving 'D:/GIMM375-Power/GIMM375_citygame/Saved/ThirdPersonCharacterA1F5D5E047676E1DEA35949562C2DD69.tmp' to 'D:/GIMM375-Power/GIMM375_citygame/Content/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.10-21.07.42:808][775]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.10-21.07.42:808][775]LogContentValidation: Display: Validating Blueprint /Game/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.10-21.07.44:446][872]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-21.07.44:446][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-21.07.46:365][984]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.03.10-21.07.46:365][984]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.03.10-21.07.46:365][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.10-21.08.58:263][294]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.10-21.08.58:542][294]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.08.58:542][294]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.08.58:542][294]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.08.58:542][294]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.09.26:248][948]LogSavePackage: Moving 'D:/GIMM375-Power/GIMM375_citygame/Saved/ThirdPersonCharacterFA32E1BC443501A35A16599D80809573.tmp' to 'D:/GIMM375-Power/GIMM375_citygame/Content/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.10-21.09.26:264][948]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.10-21.09.26:264][948]LogContentValidation: Display: Validating Blueprint /Game/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
