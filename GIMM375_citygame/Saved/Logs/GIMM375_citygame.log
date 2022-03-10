@@ -2294,3 +2294,17 @@ Make sure 'ThirdPersonCharacter_DoNotUse_C' has been compiled for  Get Energy
 [2022.03.10-21.09.26:248][948]LogSavePackage: Moving 'D:/GIMM375-Power/GIMM375_citygame/Saved/ThirdPersonCharacterFA32E1BC443501A35A16599D80809573.tmp' to 'D:/GIMM375-Power/GIMM375_citygame/Content/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2022.03.10-21.09.26:264][948]AssetCheck: New page: Asset Save: ThirdPersonCharacter
 [2022.03.10-21.09.26:264][948]LogContentValidation: Display: Validating Blueprint /Game/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.10-21.10.35:852][161]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.10.35:852][161]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.10.35:852][161]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.10.35:852][161]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.10.35:852][161]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.10.35:853][161]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.10.35:853][161]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.10.35:853][161]LogSkinnedMeshComp: Warning: GetSocketByName(head): No SkeletalMesh for Component(CharacterMesh0) Actor(ThirdPersonCharacter_C_0)
+[2022.03.10-21.10.47:752][867]LogSavePackage: Moving 'D:/GIMM375-Power/GIMM375_citygame/Saved/ThirdPersonCharacter9B74D3F4477F8D55636D3BA9860F4358.tmp' to 'D:/GIMM375-Power/GIMM375_citygame/Content/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.10-21.10.47:767][867]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.10-21.10.47:767][867]LogContentValidation: Display: Validating Blueprint /Game/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.03.10-21.10.57:482][445]LogSavePackage: Moving 'D:/GIMM375-Power/GIMM375_citygame/Saved/ThirdPersonCharacterC2C854E440540BD614103FB6D49B87E5.tmp' to 'D:/GIMM375-Power/GIMM375_citygame/Content/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.03.10-21.10.57:500][445]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2022.03.10-21.10.57:500][445]LogContentValidation: Display: Validating Blueprint /Game/UI/TP/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
